@@ -1,0 +1,5 @@
+Тестируемый сайт: 
+https://test-stand.gb.ru/seminar_stands/foodbuzz/index.html
+
+Документация:
+https://docs.google.com/document/d/1-D5HPiVYN1fhEo_eEJVQ1kwkQ_NZd8scymr1YcY1qnA/edit#

@@ -1,0 +1,6 @@
+Тестируемый веб-сайт:
+https://advantageonlineshopping.com/#/
+Интеллект-карты
+https://miro.com/app/dashboard/
+Проект в Джире с чек-листами
+https://3winteritgames.atlassian.net/jira/software/projects/IT/boards/2
